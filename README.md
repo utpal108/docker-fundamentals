@@ -1,4 +1,3 @@
 # Docker Fundamentals
 
-## For using Docker Compose we have to run
-- docker coppose up
+## For using Docker Compose we have to run  `docker compose up`
